@@ -10,6 +10,8 @@ After logging in, the host can create a game and share the invitation url. The H
 ### Participant UI 
 The participant UI will either require a game session id or lead to a prompt for a user name, depending on if the participant followed an invitation url or just opened the apps page. There needs to be some way to restore a session, in case a participant messes up. A first Idea would be for the host to be able to provide a restore code for an existing participant. 
 After entering an username, the participant is brought to the buzzer UI, which will in a first version just show the buzzer for the user to press (and maybe an indicator if a buzzer round is going)
+### User management
+There needs to be a way to manage the hosts that have access to the game. A start could be one or two hardcoded users, but there needs to be some kind of management for the user.
 ## Ideas for future versions
 * Have an actual app installed on the users devices.
 * Host should be able to provide a qr code
