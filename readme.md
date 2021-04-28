@@ -16,3 +16,6 @@ After entering an username, the participant is brought to the buzzer UI, which w
 * More features than just buzzing (buzzering? what's the correct term here?)
   * Build in quizz functionality users get asked a question and is presented with possible answers (can be )
   * Survey the user (difference between quizz and survey is the amount of questions and them being quickly created)
+# About this repository
+As I'm looking into the structure of this type of project for now there will be a repository for the frontend and one for the backend and this one will contain documentation and planning about the project. This will likely change in the future.
+Backend: https://github.com/rhaecker/buzzz-backend.git
